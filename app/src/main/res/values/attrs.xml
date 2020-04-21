@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<declare-styleable name="DottedProgressBar">
+		<attr name="dot_count" format="integer"/>
+		<attr name="dot_radius" format="float"/>
+		<attr name="dot_color" format="color"/>
+	</declare-styleable>
+	
+</resources>
